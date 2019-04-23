@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 Javascrive
+*ES6
+*Frameworks Javascript
 PHP Prameworks
 Interview
 Vlogs
